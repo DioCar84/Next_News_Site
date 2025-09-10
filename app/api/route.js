@@ -1,7 +1,9 @@
-export function GET(request) {
+/* Route Handlers, not functional just for demonstration purposes */
 
-  // return Response.json();
-  return new Response('Hello!');
-}
+// export function GET(request) {
+//   return new Response("Hello, Next.js!");
+// }
 
 // export function POST(request) {}
+
+// export function DELETE(request) {}

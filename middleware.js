@@ -1,9 +1,11 @@
-import { NextResponse } from 'next/server';
+/* Middleware, not functional just for demonstration purposes */
 
-export function middleware(request) {
-  return NextResponse.next();
-}
+// import { NextResponse } from "next/server";
 
-export const config = {
-  matcher: '/news'
-};
+// export function middleware(request) {
+//   return NextResponse.next();
+// }
+
+// export const config = {
+//   matcher: "/news/",
+// };
